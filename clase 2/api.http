@@ -1,8 +1,0 @@
-###
-GET http://localhost:3000/pokemon/ditto
-
-###
-POST http://localhost:3000/pokemon
-Content-Type: application/json
-
-{"name":"ditto","type":["normal"],"height":1,"weight":25}
